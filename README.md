@@ -1,2 +1,8 @@
 # algorithm-visualizer
 Algorithm visualizer is a project for understanding and visualizing various Sorting algorithm, Pathfinding algorithm and Huffman encoding for text compression.
+# Sorting algorithms
+Sorting algorithms are fundamental in computer science, organizing elements in collections efficiently. Bubble Sort compares and swaps adjacent elements, Selection Sort divides the list and selects the smallest (or largest) for swapping, and Insertion Sort builds the sorted list gradually. Merge Sort, an efficient divide-and-conquer method, recursively divides and merges sub-lists, while Quick Sort selects a pivot for partitioning elements. Each algorithm has its trade-offs, suitable for specific scenarios based on factors like dataset size and initial order.
+# Pathfinding algorithms
+Pathfinding algorithms are methods used to find the most efficient route between two points in a network or graph. Commonly employed in computer science, robotics, and gaming, these algorithms navigate through nodes and edges, considering factors such as distance, obstacles, and costs. Dijkstra's algorithm, a widely-used method, calculates the shortest path by iteratively selecting the node with the smallest cumulative cost
+# File compression
+File compression is a method to reduce file size for storage or transmission. Huffman encoding, a popular compression technique, assigns shorter codes to more frequent symbols and longer codes to less frequent ones. This variable-length prefix coding algorithm creates a Huffman tree, allowing efficient compression and decompression by replacing symbols with their corresponding codes.
