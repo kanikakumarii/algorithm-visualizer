@@ -1,4 +1,4 @@
-# algorithm-visualizer
+# Algorithm-visualizer
 Algorithm visualizer is a project for understanding and visualizing various Sorting algorithm, Pathfinding algorithm and Huffman encoding for text compression.
 # Sorting algorithms
 Sorting algorithms are fundamental in computer science, organizing elements in collections efficiently. Bubble Sort compares and swaps adjacent elements, Selection Sort divides the list and selects the smallest (or largest) for swapping, and Insertion Sort builds the sorted list gradually. Merge Sort, an efficient divide-and-conquer method, recursively divides and merges sub-lists, while Quick Sort selects a pivot for partitioning elements. Each algorithm has its trade-offs, suitable for specific scenarios based on factors like dataset size and initial order.
